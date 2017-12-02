@@ -2,7 +2,7 @@
 - title: Introduction aux méthodes agiles
   description: "Découvrir les méthodes agiles et en expérimenter des pratiques"
   tags: [methods, beginers]
-  présentation: |
+  presentation: |
     Cette formation de deux jours a pour objectifs de faire découvrir les bases de l'agilité : sa philosophie, ses pratiques, la raison d'être et comment l'implémenter. Elle est destinée aux équipes IT qui souhaitente entamer ou poursuivre une transformation vers l'agilité. Cette introduction à l'agilité s'adapte aux différentes équipes et reste une occasion pour tous de découvrir, d'approfondir ou d'enrichir sa conaissance de l'agiité et des différents possibles.
   objective: |
   - initiation aux pratiques agiles 
@@ -23,11 +23,24 @@
 - title: Devops
   description: "Comprendre la philosophie Devops et son implication dans une organisation"
   tags: [methods, beginers]
-
+  presentation: |
+  objective: |
+  - Détailler les divergeances stratégiques entre développeurs et opérationnels
+  - Identifier les majques de communication entre ces équipes
+  - Rapprocher les processus de déploiement et de mise en production
+  - Industrialiser au-delà du développement
+  - Comprendre le concept d'infrastructure as code
+  prerequists: |
+  plan: |
+  - Initiative devops
+  - Dev et ops
+  - Rapprochement des équipes
+  - Etapes d'une démarche devops
+ 
 - title: Introduction à Docker par la pratique
   description: "Découvrir Docker et les container applicatifs en deux jours de pratiques"
   tags: [technical, beginers]
-présentation: |
+  presentation: |
   Cette formation de 2 jours vous fournira une introduction à Docker et aux dernières technologies de conteneurs applicatifs. Elle est destinée aux administrateurs et aux développeurs souhaitant appréhender l'utilisation des conteneurs applicatifs. *L'ensemble des travaux pratiques seront réalisés sur vos projets*. Cette approche pratique axée sur les cas concrets de vos entreprises permet une meilleure assimilation. *La formation est illustrée* de nombreux cas d'utilisation directement tirés *de notre expérience*, pipeline de déploiement continu, cloud privé, automatisation du poste de développement, etc.
   objective: |
     - Appréhender l'utilisation de Docker
@@ -50,15 +63,36 @@ http://deliverous.com/assets/documents/formation-docker.pdf
 - title: Software craftmanship
   description: "S'initier aux bonnes pratiques de l'artisanat logiciel"
   tags: [technical, beginers]
+  presentation: |
+  objective: |
+  prerequists: |
+  duration:
+  plan: |
 
 - title: Intelligence Collective
   description: "Découvrir les outils de l'intelligence collective et apprendre à les mettre en œuvre"
   tags: [methods, beginers]
+  presentation: |
+  objective: |
+  duration:
+  prerequists: |
+  plan: |
 
 - title: Git par la pratique
   description: "4h pour découvrir git et ses secrets"
   tags: [technical, beginers]
+  presentation: |
+  objective: |
+  duration:
+  prerequists: |
+  plan: |
 
 - title: Le leadership agile
   description: "Appréhender les clés de la direction agile"
   tags: [methods]
+  presentation: |
+  Cette formation a pour objectif de travailler sur le leadership de chacun. Que ce soit dans le cadre d'une évolution du rôle de manager vers un rôle de leader, ou une volonté d'augmenter le leadership de chacun au sein d'une équipe, une formation de 3 jours répartie en 5 modules est une réelle opportunité pour chacun d'évoluer dans sa posture.
+  objective: |
+  prerequists: |
+  duration: 3 jours répartis sur 1 journée et 4 demie-journée, idéalement espacées de 3 semaines
+  plan: |
