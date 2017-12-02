@@ -3,11 +3,23 @@
   description: "Découvrir les méthodes agiles et en expérimenter des pratiques"
   tags: [methods, beginers]
   présentation: |
+    Cette formation de deux jours a pour objectifs de faire découvrir les bases de l'agilité : sa philosophie, ses pratiques, la raison d'être et comment l'implémenter. Elle est destinée aux équipes IT qui souhaitente entamer ou poursuivre une transformation vers l'agilité. Cette introduction à l'agilité s'adapte aux différentes équipes et reste une occasion pour tous de découvrir, d'approfondir ou d'enrichir sa conaissance de l'agiité et des différents possibles.
   objective: |
+  - initiation aux pratiques agiles 
+  - comprendre et utiliser les principales méthodes agiles  -
   prerequists: |
-  duration: 
+  - Avoir participé à un projet informatique
+  - Avoir de l'autonomie et de la motivation
+  duration: 2 jours alternant théorie et *pratique sur vos projets*.
   plan: |
-
+  - Pourquoi l'agilité ?
+  - Un peu d'histoire
+  - Présentation générale
+  - Les rôles
+  - Définir les besoins
+  - Gérer l'itération
+  - Quelques bonnes pratiques
+  
 - title: Devops
   description: "Comprendre la philosophie Devops et son implication dans une organisation"
   tags: [methods, beginers]
